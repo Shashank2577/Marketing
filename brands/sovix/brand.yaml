@@ -1,0 +1,64 @@
+# Sovix Brand Kit
+
+## Identity
+name: Sovix
+tagline: "Kubernetes observability without the Datadog bill"
+url: https://portal.sovix.xyz
+twitter: "@sovixhq"
+reddit: "u/SovixOfficial"
+devto: "sovix-engineering"
+hashnode: "sovix.hashnode.dev"
+
+## Voice & Tone
+voice: "Direct, technical, no-fluff. We speak as engineers to engineers."
+tone: "Confident but not arrogant. Anti-Datadog but not angry. Data-backed."
+person: "We / Our / The Sovix team"  # never personal name
+style: "Short sentences. No em-dashes. No AI vocabulary (leverage/harness/delve)."
+
+## Target Audience
+primary: "DevOps engineers, SREs, platform engineers"
+secondary: "CTOs and engineering managers at 50-500 person companies"
+pain_points:
+  - "Datadog bill is $30K-$100K/month and growing"
+  - "Grafana+Prometheus is too much operational overhead"
+  - "eBPF/WASM agents vs traditional — confused about best approach"
+  - "Kubernetes-native monitoring that actually understands K8s"
+  - "Self-hosted but with managed UX"
+
+## Competitors to Reference (NOT attack)
+- Datadog: "expensive at scale"
+- Grafana: "powerful but high ops burden"
+- GroundCover: "cloud-only"
+- New Relic: "legacy pricing model"
+
+## Key Messages
+- "Self-hosted. Kubernetes-native. No per-node pricing."
+- "Deploy in under 10 minutes. eBPF-based. Zero code changes."
+- "Same visibility as Datadog at 80% lower TCO."
+- "Built for the Datadog-refugee engineer."
+
+## Subreddits to engage
+- r/devops (primary)
+- r/kubernetes (primary)
+- r/sre
+- r/selfhosted
+- r/linux (secondary)
+- r/aws (secondary)
+
+## Keywords for thread detection
+- "datadog alternative"
+- "datadog too expensive"
+- "kubernetes monitoring"
+- "k8s observability"
+- "self-hosted monitoring"
+- "prometheus grafana alternative"
+- "ebpf monitoring"
+- "groundcover alternative"
+
+## Content Pillars (rotate weekly)
+1. Datadog cost pain (anti-Datadog positioning)
+2. Kubernetes-native observability education
+3. eBPF/WASM technical deep-dives
+4. Self-hosted vs SaaS tradeoffs
+5. Real incident war stories (no names)
+6. Sovix product updates / features

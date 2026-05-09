@@ -1,0 +1,65 @@
+# Spreix Brand Kit
+
+## Identity
+name: Spreix
+tagline: "AI meeting intelligence that actually understands context"
+url: https://app.spreix.xyz
+twitter: "@spreixhq"
+reddit: "u/SpreixOfficial"
+devto: "spreix-team"
+hashnode: "spreix.hashnode.dev"
+
+## Voice & Tone
+voice: "Warm, practical, slightly playful. We make meetings less painful."
+tone: "Helpful and relatable. Not corporate. Think: smart colleague, not vendor."
+person: "We / Our / The Spreix team"
+style: "Conversational but sharp. Specific examples. Real meeting pain, real solutions."
+
+## Target Audience
+primary: "PMs, founders, team leads who live in meetings"
+secondary: "Engineering managers, designers, anyone who takes notes"
+pain_points:
+  - "Otter/Fireflies transcribes but doesn't understand context"
+  - "Meeting notes disconnected from Notion/Obsidian/existing knowledge"
+  - "Action items lost after meetings"
+  - "Spending 30 min after every meeting writing notes"
+  - "Can't search across past meeting decisions"
+
+## Competitors to Reference (NOT attack)
+- Otter.ai: "great transcription, weak intelligence"
+- Fireflies: "captures audio, misses context"
+- Notion AI: "good for notes, not meeting-specific"
+- Read.ai: "analytics-focused, not note-taking"
+
+## Key Messages
+- "Not just transcription — meeting intelligence."
+- "Connects what was said to what you already know."
+- "Auto-surfaces follow-ups, decisions, open questions."
+- "Works with your existing notes. Notion, Obsidian, anything."
+
+## Subreddits to engage
+- r/productivity (primary)
+- r/PKMS (primary)
+- r/Notion
+- r/ObsidianMD
+- r/artificialintelligence
+- r/startups (secondary)
+- r/entrepreneurs (secondary)
+
+## Keywords for thread detection
+- "meeting notes AI"
+- "otter alternative"
+- "fireflies alternative"
+- "ai meeting summary"
+- "meeting intelligence"
+- "note taking app 2026"
+- "pkms meeting notes"
+- "notion AI meetings"
+
+## Content Pillars (rotate weekly)
+1. Meeting productivity (how to run better meetings)
+2. AI note-taking comparisons / landscape
+3. PKM + meeting integration (Notion, Obsidian workflows)
+4. Founder productivity (async culture, fewer meetings)
+5. Remote work meeting culture
+6. Spreix product updates / features
